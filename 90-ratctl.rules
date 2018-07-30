@@ -22,5 +22,7 @@ SUBSYSTEM=="usb", ATTRS{idVendor}=="06a3", ATTRS{idProduct}=="0cfa", TAG+="uacce
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1705", TAG+="uaccess"
 # R.A.T 9
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1709", TAG+="uaccess"
+# M.O.U.S. 9
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1715", TAG+="uaccess"
 # R.A.T PRO X
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1718", TAG+="uaccess"
